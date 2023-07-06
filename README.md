@@ -24,7 +24,7 @@ cd TrabFinal-ES2
 ## Sem a utilização do Factory Method
 <div align="center">
 <img src="https://github.com/IgorSimim/FinalWork-ES2/assets/120426953/a3399435-f7bf-4076-99f4-008bf0b1ebd9.png"/>
-</div>
+</div> 
 
 ## Com a utilização do Factory Method
 <div align="center">
