@@ -31,6 +31,11 @@ cd TrabFinal-ES2
 <img src="https://github.com/IgorSimim/FinalWork-ES2/assets/120426953/c144cc99-62db-4474-9b6c-032126f1da66.png"/>
 </div>
 
+# Links:
+https://refactoring.guru/pt-br/design-patterns/factory-method
+
+https://medium.com/xp-inc/desing-patterns-factory-method-a7496ae071aa
+
 # Autor
 Igor Leon Borges Silva Simim
 
