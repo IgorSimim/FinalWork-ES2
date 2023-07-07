@@ -56,6 +56,8 @@ https://refactoring.guru/pt-br/design-patterns/factory-method
 
 https://medium.com/xp-inc/desing-patterns-factory-method-a7496ae071aa
 
+https://www.linkedin.com/pulse/factory-method-pattern-r%C3%B4mulo-pereira/?originalSubdomain=pt
+
 # <img src="https://github.com/IgorSimim/FinalWork-ES2/assets/120426953/b485ed8e-906f-4353-955f-24636af50563" width="40" /> Autor
 Igor Leon Borges Silva Simim
 
