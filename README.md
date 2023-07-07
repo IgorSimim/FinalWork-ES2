@@ -1,4 +1,4 @@
-# FinalWork-ES2
+# 👷 FinalWork-ES2
 Projeto explicativo sobre o modelo Factory Method
 
 
@@ -6,6 +6,17 @@ Projeto explicativo sobre o modelo Factory Method
 - Projeto construido para enfatizar a diferença da utilização do modelo Factory Method nos códigos. No projeto é posível obter um exemplo de uma aplicação com este método em códigos e um que não possui a mesma idéia do modelo em questão.
 - O padrão Factory Method é um padrão de design criacional que fornece a interface para a criação de objetos em uma superclasse, mas permite que subclasses possam alterar o tipo de objetos que são criados.
 - Por exemplo, se tivermos "Personagem" como a super classe do nosso projeto,  poderiamos ter varias subclasses (Guerreiro, Mago, Arqueiro...). Ao invés de chamar o construtor diretamente, para cada subclasse criada, podemos utilizar o Factory Method, que recebe um parametro de string representando o tipo de personagem que deve ser criado e, após isso, ele  pode retornar a subclasse adequada, baseado no parâmetro passado. Isso pode facilitar muito a adição de novos tipos de personagens sem ter que modificar o código já existente. O padrão Factory Method sugere que você substitua chamadas diretas de construção de objetos (usando o operador new) por chamadas para um método.
+
+# <img src="https://github.com/IgorSimim/FinalWork-ES2/assets/120426953/c1be7210-1ec1-4bf5-b2e8-fd7dd47fd5ff" width="40" /> Vantagens:
+- **Encapsulamento:** o Factory Method Pattern encapsula a criação de objetos em uma classe separada, permitindo que a classe cliente se concentre apenas na utilização desses objetos.
+- **Flexibilidade:** o Factory Method Pattern permite que a classe Main trabalhe com objetos sem precisar conhecer a classe concreta a ser criada. Em vez disso, a classe Main pode trabalhar com a interface comum fornecida pelo Factory Method.
+- **Extensibilidade:** o Factory Method Pattern facilita a adição de novas classes concretas à aplicação. Novas classes concretas podem ser facilmente adicionadas ao sistema, sem afetar as classes existentes, tornando a aplicação mais modular e extensível.
+- **Testabilidade:** o Factory Method Pattern torna mais fácil testar a aplicação, uma vez que a criação de objetos é encapsulada em uma classe separada.
+
+# <img src="https://github.com/IgorSimim/FinalWork-ES2/assets/120426953/c1be7210-1ec1-4bf5-b2e8-fd7dd47fd5ff" width="40" /> Desvantagens:
+- **Complexidade:** o Factory Method Pattern pode adicionar complexidade ao código, especialmente em aplicativos pequenos. A necessidade de criar classes adicionais para encapsular a criação de objetos pode tornar o código mais difícil de entender e manter.
+- **Overhead:** o Factory Method Pattern pode adicionar overhead ao código, uma vez que a criação de objetos é encapsulada em uma classe separada. Isso pode tornar a inicialização do aplicativo mais lenta e aumentar a quantidade de memória necessária.
+- **Abstração excessiva:** o Factory Method Pattern pode levar a uma abstração excessiva do código, o que pode tornar o código mais difícil de entender. Se a aplicação é pequena ou simples, o uso do Factory Method Pattern pode não ser necessário e pode adicionar complexidade desnecessária.
   
 # <img src="https://github.com/IgorSimim/FinalWork-ES2/assets/120426953/fe64751b-873e-4ba0-969b-accc48a1339f" width="40" /> Exemplos de APIs que utilizam o Factory Method:
 Temos como exemplo algumas aplicações que são de grande reconhecimento internacional, como:
