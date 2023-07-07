@@ -30,7 +30,7 @@ Todas utilizam diferentes subclasses que se diferenciam. Por exemplo, na API do 
 
 # Tecnologias utilizadas
 ## Back end
-- Typescript
+- <img src="https://github.com/IgorSimim/FinalWork-ES2/assets/120426953/cb1cc449-73bc-4c36-bd7a-6c3a8380af68" width="40" align="center"/>  Typescript
 
 # <img src="https://github.com/IgorSimim/FinalWork-ES2/assets/120426953/571dfa0a-f8a2-4444-90a0-0ea9ffda1811" width="40" /> Como executar o Projeto:
 ```bash
@@ -52,13 +52,17 @@ cd TrabFinal-ES2
 </div>
 
 # 🔗 Links:
+## Link do vídeo explicativo:
+https://www.youtube.com/watch?v=Z1fKwsvHiEA&t=5s
+
+## Links usados como referência:
 https://refactoring.guru/pt-br/design-patterns/factory-method
 
 https://medium.com/xp-inc/desing-patterns-factory-method-a7496ae071aa
 
 https://www.linkedin.com/pulse/factory-method-pattern-r%C3%B4mulo-pereira/?originalSubdomain=pt
 
-# <img src="https://github.com/IgorSimim/FinalWork-ES2/assets/120426953/b485ed8e-906f-4353-955f-24636af50563" width="40" /> Autor
+# <img src="https://github.com/IgorSimim/FinalWork-ES2/assets/120426953/b485ed8e-906f-4353-955f-24636af50563" width="40" /> Autores
 Igor Leon Borges Silva Simim
 
 Gabriel Cunha Huber
